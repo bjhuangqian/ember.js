@@ -1,5 +1,5 @@
 import { Registry, privatize } from '..';
-import { factory} from 'internal-test-helpers';
+import { factory } from 'internal-test-helpers';
 
 QUnit.module('Registry');
 
